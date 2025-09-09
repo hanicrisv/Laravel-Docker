@@ -48,7 +48,7 @@
 <body>
   <div class="container">
     <h1>¡Bienvenido!</h1>
-    <p>Nos alegra verte. Haz clic en el botón para iniciar sesión.</p>
+    <p>Nos alegra verte..</p>
     
   </div>
 </body>
